@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.asmaulhusna.R;
 
 public class DetailAsmaulhusna extends AppCompatActivity {
@@ -45,5 +46,11 @@ public class DetailAsmaulhusna extends AppCompatActivity {
         penjelasan.setText(Penjelasan);
         kisah.setText(Kisah);
         judulkisah.setText(JudulKisah);
+        getImageFromURL(KisahGambar);
+    }
+    private void getImageFromURL(String Photo){
+        Glide.with(DetailAsmaulhusna.this)
+                .load(Photo)
+                .into(kisahgambar);
     }
 }

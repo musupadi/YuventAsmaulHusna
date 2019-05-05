@@ -12,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.example.asmaulhusna.Activity.AsmaulHusna;
+import com.example.asmaulhusna.Activity.KaidahAsmaulHusna;
+import com.example.asmaulhusna.Activity.ManfaatAsmaulHusna;
 import com.example.asmaulhusna.R;
 
 /**
@@ -19,7 +21,7 @@ import com.example.asmaulhusna.R;
  */
 public class utama extends Fragment {
 
-    ImageView asmaulhusna;
+    ImageView asmaulhusna, kaidah, manfaat;
 
     public utama() {
         // Required empty public constructor
@@ -37,13 +39,31 @@ public class utama extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         asmaulhusna=(ImageView)view.findViewById(R.id.img_asmaulhusna);
+        kaidah=(ImageView)view.findViewById(R.id.kaidah);
+        manfaat=(ImageView)view.findViewById(R.id.manfaat);
 
-        asmaulhusna.setOnClickListener(new View.OnClickListener() {
+        //ON CLICK
+    asmaulhusna.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(getActivity(), AsmaulHusna.class);
                 startActivity(intent);
             }
         });
+    kaidah.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            Intent intent = new Intent(getActivity(), KaidahAsmaulHusna.class);
+            startActivity(intent);
+        }
+    });
+        manfaat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), ManfaatAsmaulHusna.class);
+                startActivity(intent);
+            }
+        });
+    //DONE
     }
 }

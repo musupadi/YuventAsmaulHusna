@@ -39,6 +39,7 @@
             android:layout_weight="1"
             android:padding="16dp">
             <ImageView
+                android:id="@+id/kaidah"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -63,6 +64,7 @@
             android:layout_weight="1"
             android:padding="16dp">
             <ImageView
+                android:id="@+id/manfaat"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -132,7 +134,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Contsct Information"
+                android:text="Contact Information"
                 android:gravity="center"/>
         </LinearLayout>
     </LinearLayout>
