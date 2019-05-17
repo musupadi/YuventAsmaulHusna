@@ -11,13 +11,13 @@ public class DataModelAsmaulHusna {
                     "suara",
                     "Suatu hari, Nabi Sulaiman Alaihis Salam. bersama pasukannya sedang bepergian ke sebuah tempat.\n" +
                             "\n" +
-                            "Di tengah perjalanan, Nabi Sulaimanc. segera menghentikan pasukannya.\n" +
+                            "Di tengah perjalanan, Nabi Sulaiman. segera menghentikan pasukannya.\n" +
                             "\n" +
                             "“Tunggu, kita melewati sebuah sarang semut.”\n" +
                             "\n" +
-                            "“Jangan sampai kita mengganggu mereka, apalagi menginjak salah seekor semut di sini!” seru Nabi Sulaiman as. sambil turun dari kudanya.\n" +
+                            "“Jangan sampai kita mengganggu mereka, apalagi menginjak salah seekor semut di sini!” seru Nabi Sulaiman  Alaihis Salam sambil turun dari kudanya.\n" +
                             "\n" +
-                            "Saat itu Nabi Sulaiman  Alaihis Salam. mendengar raja semut berseru pada rakyatnya,\n" +
+                            "Saat itu Nabi Sulaiman  Alaihis Salam mendengar raja semut berseru pada rakyatnya,\n" +
                             "\n" +
                             "”Wahai rakyatku! Cepatlah kalian menyingkir dan masuk ke dalam sarang!”\n" +
                             "\n" +
@@ -35,12 +35,7 @@ public class DataModelAsmaulHusna {
                             "\n" +
                             "Dengan penuh kasih sayang, Rasul lalu mengangkat dan mendekap anak lelaki itu. Air mata Rasul sampai menetes melihat napas anak itu sudah tersendat-sendat.\n" +
                             "\n" +
-                            "Sakit adalah salah satu bagian dari rasa kasih sayang Allah Subhanallahu wa Ta'ala. Karena jika kita sabar saat sakit, Allah akan mengurangi dosa  kita. Sedangkan Allah hanya memberi kasih sayang kepada para hamba-Nya yang memiliki kasih sayang.\n "+
-                            "Demi untuk menghargai bangsa semut, Nabi Sulaiman  Alaihis Salam. sampai memerintahkan pasukannya untuk berhati-hati.\n" +
-                            "\n" +
-                            "Padahal dalam kehidupan kita sehari-hari.\n" +
-                            "\n" +
-                            "Sering kita suka meremehkan semut karena ukurannya yang sangat kecil.",
+                            "Sakit adalah salah satu bagian dari rasa kasih sayang Allah Subhanallahu wa Ta'ala. Karena jika kita sabar saat sakit, Allah akan mengurangi dosa  kita. Sedangkan Allah hanya memberi kasih sayang kepada para hamba-Nya yang memiliki kasih sayang.\n ",
                     "http://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-2-ar-rohiim-kasih-sayang-allah-melalui-sakit.jpg",
                     "Allah Maha Penyayang kepada setiap hamba-hamba-Nya yang bertakwa, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Ar-Rahiim",
                     "Kasih Sayang Allah Melalui Sakit"
