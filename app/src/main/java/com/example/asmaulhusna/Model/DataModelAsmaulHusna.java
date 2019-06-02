@@ -21,7 +21,11 @@ public class DataModelAsmaulHusna {
                             "\n" +
                             "”Wahai rakyatku! Cepatlah kalian menyingkir dan masuk ke dalam sarang!”\n" +
                             "\n" +
-                            "“Lihat, Raja Sulaiman dan rombongannya akan melewati tempat ini!”",
+                            "“Lihat, Raja Sulaiman dan rombongannya akan melewati tempat ini!” \n"+
+                            "\n"+
+                            "Demi untuk menghargai bangsa semut, Nabi Sulaiman Alaihis Salam sampai memerintah pasukannya untuk berhati-hati.\n" +
+                            "\n"+
+                            "Padahal dalam kehidupan kita sehari-hari. Sering kita suka meremehkan semut karena ukurannya yang sangat kecil." ,
                     "http://www.ebookanak.com/wp-content/uploads/2016/04/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-1-Ar-Rohmaan-Perhatian-Nabi-Sulaiman-Pada-Bangsa-Semut-1024x721.jpg",
                     "Allah Subhanallahu wa Ta'ala Maha Pengasih kepada setiap makhluk-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Ar-Rahmaan.",
                     "Perhatian Nabi Sulaiman pada Bangsa Semut"
